@@ -1,0 +1,4 @@
+baseURL = 'http://dressingnity.rf.gd/'
+languageCode = 'en-us'
+title = 'Zaphkiel'
+theme = 'ananke'
